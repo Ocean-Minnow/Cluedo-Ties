@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "Minnow.CluedoTies",
+	"name": "Cluedo Ties",
+	"description": "Changes some ties for the Dartmoor bodyguards so that they all match one of the player colors from the classic board game Cluedo.",
+	"authors": ["Minnow"],
 	"frameworkVersion": "2.25.1"
 }
