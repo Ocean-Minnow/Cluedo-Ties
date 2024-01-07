@@ -1,1 +1,19 @@
-{"tempHash":"00A10B98C8865C14","tbluHash":"009682E4BB19F3AA","patch":[{"SubEntityOperation":["070adb12d73c80b7",{"SetPropertyValue":{"property_name":"ConstantColorRGB_02_Value","value":"#660000"}}]},{"SubEntityOperation":["462d436091800769",{"SetPropertyValue":{"property_name":"ConstantColorRGB_02_Value","value":"#660000"}}]}],"patchVersion":6}
+{
+	"tempHash": "00A10B98C8865C14",
+	"tbluHash": "009682E4BB19F3AA",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"070adb12d73c80b7",
+				{ "SetPropertyValue": { "property_name": "ConstantColorRGB_02_Value", "value": "#660000" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"462d436091800769",
+				{ "SetPropertyValue": { "property_name": "ConstantColorRGB_02_Value", "value": "#660000" } }
+			]
+		}
+	],
+	"patchVersion": 6
+}

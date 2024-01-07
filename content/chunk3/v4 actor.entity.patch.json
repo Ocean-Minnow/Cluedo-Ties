@@ -1,1 +1,47 @@
-{"tempHash":"009096338817F1D8","tbluHash":"00FC6D3EA9BCFF5B","patch":[{"SubEntityOperation":["24e3db1dbde3e0e0",{"SetPropertyValue":{"property_name":"Texture2D_01","value":{"resource":"[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/diffuse_f.tex](ascolormap).pc_tex","flag":"5F"}}}]},{"SubEntityOperation":["24e3db1dbde3e0e0",{"SetPropertyValue":{"property_name":"ConstantColorRGB_02_Value","value":"#777777"}}]},{"SubEntityOperation":["874c06040dee7aef",{"SetPropertyValue":{"property_name":"ConstantColorRGB_02_Value","value":"#777777"}}]},{"SubEntityOperation":["874c06040dee7aef",{"SetPropertyValue":{"property_name":"Texture2D_01","value":{"resource":"[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/diffuse_g.tex](ascolormap).pc_tex","flag":"5F"}}}]}],"patchVersion":6}
+{
+	"tempHash": "009096338817F1D8",
+	"tbluHash": "00FC6D3EA9BCFF5B",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"24e3db1dbde3e0e0",
+				{
+					"SetPropertyValue": {
+						"property_name": "Texture2D_01",
+						"value": {
+							"resource": "[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/diffuse_f.tex](ascolormap).pc_tex",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"24e3db1dbde3e0e0",
+				{ "SetPropertyValue": { "property_name": "ConstantColorRGB_02_Value", "value": "#777777" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"874c06040dee7aef",
+				{ "SetPropertyValue": { "property_name": "ConstantColorRGB_02_Value", "value": "#777777" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"874c06040dee7aef",
+				{
+					"SetPropertyValue": {
+						"property_name": "Texture2D_01",
+						"value": {
+							"resource": "[assembly:/_pro/characters/assets/individuals/paris/philip/textures/male_reg_philip_01_tie_01.texture?/diffuse_g.tex](ascolormap).pc_tex",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
