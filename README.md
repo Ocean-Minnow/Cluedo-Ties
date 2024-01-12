@@ -6,4 +6,4 @@ Changes some ties for the Dartmoor bodyguards so that they all match one of the 
 
 ---
 
-`Minnow.CluedoTies` v1.0.0, by Minnow. This README was automatically generated from the mod's manifest.
+`Minnow.CluedoTies` v1.0.1, by Minnow. This README was automatically generated from the mod's manifest.
