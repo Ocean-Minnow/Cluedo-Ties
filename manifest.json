@@ -4,6 +4,7 @@
 	"id": "Minnow.CluedoTies",
 	"name": "Cluedo Ties",
 	"description": "Changes some ties for the Dartmoor bodyguards so that they all match one of the player colors from the classic board game Cluedo.",
+	"contentFolders": ["content"],
 	"authors": ["Minnow"],
 	"frameworkVersion": "2.33.7",
 	"updateCheck": "https://github.com/Ocean-Minnow/Cluedo-Ties/releases/latest/download/updates.json"
